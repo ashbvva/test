@@ -1,0 +1,68 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\Scripts\;C:\Users\Administrator\AppData\Local\Programs\Python\Python35-32\
+
+
+https://www.tutorialspoint.com/python
+
+
+First line of python line
+#!/usr/bin/python
+
+q ---> to quit the help
+
+
+>>>x=10
+>>>y=10.1
+
+>>> type(x)
+	<class 'int'>
+>>> type(y)
+	<class 'float'>
+
+
+>>>dir(x)
+['__abs__', '__add__', '__and__', '__bool__', '__ceil__', '__class__', '__delatt
+r__', '__dir__', '__divmod__', '__doc__', '__eq__', '__float__', '__floor__', '_
+_floordiv__', '__format__', '__ge__', '__getattribute__', '__getnewargs__', '__g
+t__', '__hash__', '__index__', '__init__', '__int__', '__invert__', '__le__', '_
+_lshift__', '__lt__', '__mod__', '__mul__', '__ne__', '__neg__', '__new__', '__o
+r__', '__pos__', '__pow__', '__radd__', '__rand__', '__rdivmod__', '__reduce__',
+ '__reduce_ex__', '__repr__', '__rfloordiv__', '__rlshift__', '__rmod__', '__rmu
+l__', '__ror__', '__round__', '__rpow__', '__rrshift__', '__rshift__', '__rsub__
+', '__rtruediv__', '__rxor__', '__setattr__', '__sizeof__', '__str__', '__sub__'
+, '__subclasshook__', '__truediv__', '__trunc__', '__xor__', 'bit_length', 'conj
+ugate', 'denominator', 'from_bytes', 'imag', 'numerator', 'real', 'to_bytes']
+
+
+
+>>>help()
+>>>help(int)
+
+
+
+-------------> dir, type, help
+-------------> 3.x accepts raw inputs but 2.x not, 3.x->print(), 2.x->print
+
+Python 3.x
+>>> name=input("Enter ur name: ")
+Enter ur name: Asha
+
+Python 2.x
+>>> name=input("Enter ur name: ")
+Enter ur name: "Asha"
+
+
+
+
+-------------> if (condition):
+-------------> consistent indentation - either tabs or spaces
+-------------> else is optional & always at the end
+------------->
+	if (condition):
+	elif (condition):
+	else ()
+
+------------>list.insert(position, value), list.append(listNew), list.append(listNew), list.count(value to search for)
+------------>list is a variable and sequence(tuple) is constant & doesnt change
+
+
+
